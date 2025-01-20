@@ -1,1 +1,3 @@
-"# Drimizer-week2" 
+# Drimizer-week2
+
+Arrays and loops implementation project.
