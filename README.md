@@ -1,3 +1,1 @@
-# Dreamize-week2
-
-Arrays and loops implementation project.
+"# Drimizer-week2" 
